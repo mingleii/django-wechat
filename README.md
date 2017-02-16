@@ -1,0 +1,2 @@
+# smallsite
+blog

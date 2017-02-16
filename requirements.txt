@@ -1,0 +1,24 @@
+Django
+django-ckeditor
+django-crum
+gevent
+greenlet
+gunicorn
+markdown2
+Pillow
+# psycopg2
+Pygments
+pyparsing
+python-json-logger
+django-redis-cache
+redis
+redis_cache
+six
+# celery==3.1.23
+# django-celery
+djangorestframework
+django-import-export
+requests
+apscheduler
+wechat-sdk
+mysqlclient
